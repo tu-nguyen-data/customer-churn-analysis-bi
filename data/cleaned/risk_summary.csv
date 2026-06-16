@@ -1,0 +1,4 @@
+Churn_Risk_Level,total_customers,churned_customers,churn_rate,avg_monthly_charges,avg_tenure
+High Risk,860,595,69.19,83.02,5.0
+Medium Risk,4913,1241,25.26,68.86,31.8
+Low Risk,1270,33,2.6,36.55,52.9
